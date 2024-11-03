@@ -1,1 +1,1 @@
-i have created all these code to do the simple unit testing for tutorials 
+I have created all these code snippets to demonstrate simple unit testing for tutorial purposes.
